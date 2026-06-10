@@ -5,8 +5,13 @@ This project was one of my first welding projects that I've done. This metal she
 
 ## Materials Needed
 
-Welding set-up
-* Four of 68 inches long 1 inch metal tubes
-* Six of 34 inches long angle iron
-* Seven of 22 inches long angle iron
+### Welding set-up
+* Four of 68 inch long 1 inch metal tubes
+* Six of 34 inch long angle iron
+* Seven of 22 inch long angle iron
+Optional:
+* Two bolts
+* Two 1 inch long angle iron
+* Two 1/8 inch metal plate
 
+<img width="3024" height="4032" alt="IMG_6414" src="https://github.com/user-attachments/assets/ba496b9b-344e-4f1c-a6f9-b89c8f8cfa1e" />
