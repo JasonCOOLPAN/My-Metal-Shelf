@@ -14,4 +14,4 @@ Optional:
 * Two 1 inch long angle iron
 * Two 1/8 inch metal plate
 
-<img width="3024" height="4032" alt="IMG_6414" src="https://github.com/user-attachments/assets/ba496b9b-344e-4f1c-a6f9-b89c8f8cfa1e" />
+<img width="604.8" height="806.4" alt="IMG_6414" src="https://github.com/user-attachments/assets/ba496b9b-344e-4f1c-a6f9-b89c8f8cfa1e" />
