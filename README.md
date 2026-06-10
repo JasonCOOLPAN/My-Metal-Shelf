@@ -5,7 +5,10 @@ This project was one of my first welding projects that I've done. This metal she
 
 ## Materials Needed
 
-### Welding set-up
+* Welding set-up
+* Grinding Booth
+* Paint of your choice
+* Three of 36 inch x 24 inch OSB Wood with 1 inch corner indent
 * Four of 68 inch long 1 inch metal tubes
 * Six of 34 inch long angle iron
 * Seven of 22 inch long angle iron
